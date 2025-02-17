@@ -1,0 +1,56 @@
+.flex{
+    display: flex;
+}
+
+.justify{
+    
+    justify-content: space-around;
+
+}
+
+.justy{
+    justify-content:center ;
+}
+
+.item{
+    align-items: center;
+
+}
+.fontfamily{
+    font-family: sans-serif;
+}
+
+
+.btn2 {
+    width: 140px;
+    height: 40px;
+    background-color:#3DCFD3;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: transparent;
+  }
+
+  .btn2:hover{
+    background-color: transparent;
+    border: 2px solid #3DCFD3;
+    color: white;
+    
+  }
+
+  .btn_send_msg{
+    width: 160px;
+    height: 40px;
+    background-color:#3DCFD3;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: transparent;
+  margin-left: 650px;
+  margin-top: 30px;
+   
+  }
+  .btn_send_msg:hover{
+    background-color: transparent;
+    border: 2px solid #3DCFD3;
+    color: white;
+    
+  }
